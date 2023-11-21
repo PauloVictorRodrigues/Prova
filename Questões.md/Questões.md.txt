@@ -1,5 +1,6 @@
 1 - Clonar é quando você copia do seu repositório remoto para o local
 2 - Empacotamento de informações
 3 - É onde você armazena informações, como códigos e arquivos de texto
+4 - Quando você junta as branches que você criou com a branch principal
 
 
