@@ -2,5 +2,6 @@
 2 - Empacotamento de informações
 3 - É onde você armazena informações, como códigos e arquivos de texto
 4 - Quando você junta as branches que você criou com a branch principal
+5 - Trazer informações do repositório remoto para o repositório local 
 
 
