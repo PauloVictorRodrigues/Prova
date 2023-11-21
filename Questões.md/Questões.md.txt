@@ -4,7 +4,7 @@
 4 - Quando você junta as branches que você criou com a branch principal
 5 - Trazer informações do repositório remoto para o repositório local 
 6 - São ramificações que você cria fora da branch "main"
-7 - Permite que você informe as outras pessoas sobre o push que você fez no repositório no GitHub
+7 - Permite que você informe as outras pessoas erros que você resolveu no codigo dos outros
 8 - É um novo repositório que você cria antes de colocar no repositório preincipal
 9 - Software de Controle de Versionamento
 
