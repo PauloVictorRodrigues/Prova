@@ -6,5 +6,6 @@
 6 - São ramificações que você cria fora da branch "main"
 7 - Permite que você informe as outras pessoas sobre o push que você fez no repositório no GitHub
 8 - É um novo repositório que você cria antes de colocar no repositório preincipal
+9 - Software de Controle de Versionamento
 
 
