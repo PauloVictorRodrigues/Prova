@@ -1,3 +1,4 @@
 1- Clonar é quando você copia do seu repositório remoto para o local
+2 - Empacotamento de informações
 
 
